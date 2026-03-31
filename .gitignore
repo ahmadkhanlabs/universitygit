@@ -1,0 +1,19 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+temp/
+
+# Mac system files
+.DS_Store
+
+# Environment files
+.env
+
+# PHP related
+vendor/
+
+# IDE files
+.vscode/
+.idea/
